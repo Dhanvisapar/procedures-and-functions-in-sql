@@ -1,6 +1,6 @@
 # procedures-and-functions-in-sql
 
-# Task 8 — Stored Procedures & Functions (SQL Internship)
+# Task 8 — Stored Procedures & Functions 
 
 ## 🔹 Objective
 To learn and implement reusable SQL blocks using Stored Procedures and Functions.
